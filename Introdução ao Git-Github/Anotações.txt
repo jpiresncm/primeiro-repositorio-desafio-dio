@@ -1,0 +1,6 @@
+Link para download do GIT: https://git-scm.com/downloads
+Site do Github: https://github.com/
+
+Através deles podemos desenvolver projetos na qual diversas
+pessoas podem contribuir simultaneamente no mesmo, editando
+e criando novos arquivos.
